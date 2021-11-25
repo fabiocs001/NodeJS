@@ -1,0 +1,15 @@
+{
+  "name": "server01",
+  "version": "1.0.0",
+  "description": "primeiro servidor node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "server",
+    "node"
+  ],
+  "author": "fabiodev",
+  "license": "ISC"
+}
